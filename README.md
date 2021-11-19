@@ -4,12 +4,12 @@ Implementation of the A-Star algorithum using a basic heuristic to solve the puz
 
 Input examples:
 
-Enter Goal State
+Enter Goal State\
 1 2 3\
 8 0 4\
-7 6 5\
+7 6 5
 
-Enter Inital State
+Enter Inital State\
 2 8 3\
 1 6 4\
-7 0 5\
+7 0 5
